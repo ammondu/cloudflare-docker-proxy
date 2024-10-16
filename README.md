@@ -1,8 +1,9 @@
 # docs
 详细教程 --> [基于 Cloudflare Workers 和 cloudflare-docker-proxy 搭建镜像加速服务](https://www.lixueduan.com/posts/docker/12-docker-mirror/)
+
 # cloudflare-docker-proxy
 
-![deploy](https://github.com/ammondu/cloudflare-docker-proxy/actions/workflows/deploy.yaml/badge.svg)
+![deploy](https://github.com/ciiiii/cloudflare-docker-proxy/actions/workflows/deploy.yaml/badge.svg)
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/ammondu/cloudflare-docker-proxy)
 
